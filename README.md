@@ -4,6 +4,10 @@ use "DOS" command to uload this bin file to NodeMcu :
 
 C:\(FolderXXX)/esptool.exe -vv -cd nodemcu -cb 115200 -cp COM12 -ca 0x00000 -cf PIPE_ALGOBEL.bin 
 
+
+#example : 
+C:\Users\esptool.exe -vv -cd nodemcu -cb 115200 -cp COM12 -ca 0x00000 -cf C:\Users\PIPIE_ALGOBEL.bin 
+
 SSID : PIPE_ALGOBEL
 * Please contact info@algobel.com for password 
 

@@ -13,10 +13,13 @@ C:\Users\esptool.exe -vv -cd nodemcu -cb 115200 -cp COM12 -ca 0x00000 -cf C:\Use
 
 SSID : PIPE_ALGOBEL
 * Please contact info@algobel.com for password 
-Authmode : AUTH_WPA_WPA2_PSK
-Soft-AP IP address = 192.168.4.1
-Subnet mask in bites: 24
-Subnet details :
-Usable IP addresses:  192.168.4.2 - 192.168.4.254
-Subnet (255.255.255.0)
-Gateway/Broadcast (192.168.4.255)
+
+##Authmode : AUTH_WPA_WPA2_PSK
+##Soft-AP IP address = 192.168.4.1
+##Subnet mask in bites: 24
+
+#Subnet details :
+
+##Usable IP addresses:  192.168.4.2 - 192.168.4.254
+##Subnet (255.255.255.0)
+##Gateway/Broadcast (192.168.4.255)
